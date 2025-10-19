@@ -86,4 +86,5 @@ O projeto será avaliado com base nos seguintes critérios:
 - Organização do código e clareza na apresentação
 - Comentários explicativos em cada etapa
 
-O prijeto está na plataforma Tripleten e não pode ser alterado.
+Todos os notebooks originais estão hospedados na plataforma TripleTen e não podem ser alterados.  
+- Este repositório documenta o projeto e o aprendizado adquirido.
